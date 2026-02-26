@@ -1,0 +1,1 @@
+Teradata Vantage / ClearScape Analytics — proprietary. Study their https://docs.teradata.com and the ClearScape Analytics whitepaper separately. It'll come up in the interview.
